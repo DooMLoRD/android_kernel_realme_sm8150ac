@@ -1,0 +1,2 @@
+## pull defconfig
+ARCH=arm64 CROSS_COMPILE=../aarch64-linux-android-4.9/bin/aarch64-linux-android- make ranchu64_defconfig
